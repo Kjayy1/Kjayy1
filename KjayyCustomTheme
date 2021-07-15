@@ -3,8 +3,7 @@
 * @author Kjayy#0004
 * @version 3.2
 * @description An easily customizable and automatically updating theme
-* @source https://github.com/puckzxz/NotAnotherAnimeTheme
-* @updateUrl https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/NotAnotherAnimeTheme.theme.css
+* @source https://github.com/Kjayy1/Kjayy1
 */
 
 @import url(https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css);
